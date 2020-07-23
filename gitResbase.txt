@@ -7,7 +7,7 @@ TeeMo_master_1
 哈怂master-1
 哈怂添加5
 哈怂添加6
-<<<<<<< HEAD
 哈怂master-2
 仓库1添加
 仓库B添加
+仓库A添加 - 2
